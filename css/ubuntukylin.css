@@ -1,0 +1,7 @@
+.container.header-main{height: 48px;}
+.header,.container.header-main{background: #171f26; color: white;}
+.logo a .cover .name, .menu .item a{color:white;}
+.logo a{opacity: 1; height: 48px; line-height: 48px;}
+.header .header-main{height: 48px;}
+.logo a .cover .name{font-size: 18px;}
+.menu .item{font-size: 14px; height: 28px; line-height: 28px;}
